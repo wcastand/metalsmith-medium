@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-medium",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.0-semantic-released",
   "description": "get last post from a medium user.",
   "main": "lib/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcastand/metalsmith-medium.git"
+    "url": "https://github.com/wcastand/metalsmith-medium.git"
   },
   "keywords": [
     "metalsmith",
