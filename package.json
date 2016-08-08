@@ -47,5 +47,8 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "request": "^2.74.0"
   }
 }
