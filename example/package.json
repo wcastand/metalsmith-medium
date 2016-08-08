@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Castandet <wcastand@gmail.com> (https://github.com/wcastand)",
+  "license": "MIT",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "metalsmith": "^2.1.0",
+    "metalsmith-jade": "^2.0.2",
+    "metalsmith-layouts": "^1.6.5"
+  }
+}

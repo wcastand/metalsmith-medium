@@ -1,5 +1,6 @@
 node_modules
-example
+example/build
+example/node_modules
 lib
 npm-debug.log
 .DS_Store

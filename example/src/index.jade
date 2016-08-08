@@ -1,0 +1,8 @@
+---
+layout: index.jade
+---
+
+ul
+  each post in medium.posts
+    li
+      a(href='http://medium.com/' + medium.user_infos.username + '/' + post.uniqueSlug)= post.title
